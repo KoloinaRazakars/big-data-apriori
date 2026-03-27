@@ -1,4 +1,4 @@
-# 🛒 Big Data Market Basket Analysis with Apriori (PySpark + HDFS)
+# Big Data Market Basket Analysis with Apriori (PySpark + HDFS)
 
 ## Project Overview
 This project focuses on **market basket analysis at scale** using the **Apriori algorithm** implemented with **PySpark** and executed on **Hadoop HDFS**.
